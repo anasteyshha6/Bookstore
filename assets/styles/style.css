@@ -1,0 +1,33 @@
+@import url(./font.css);
+
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.one{
+    background-color: #FFFAF5;
+}
+
+.two{
+    background-color: #391F00;
+ }
+
+.container_big{
+    width: 1600px;
+    margin: 0 auto;
+}
+
+/*NAVIGATION*/
+

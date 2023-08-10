@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Mon';
+    font-weight: 400;
+    font-style: normal;
+    src: url("../fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Mon';
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/Montserrat-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Mon';
+    font-weight: 900;
+    font-style: normal;
+    src: url("../fonts/Montserrat-Black.ttf");
+}
